@@ -8,20 +8,20 @@ class Student:
 		self.age = age
 		self.gpa = gpa
     
-	def get_name():
+	def get_name(self):
 		return self.name
-	def get_id():
+	def get_id(self):
 		return self.id
-	def get_age():
+	def get_age(self):
 		return self.age
-	def get_gpa():
+	def get_gpa(self):
 		return self.gpa
 	
-	def set_name(name):
+	def set_name(self, name):
 		self.name = name
-	def set_id(id):
+	def set_id(self, id):
 		self.id = id
-	def set_age(age):
+	def set_age(self, age):
 		self.age = age
-	def set_gpa(gpa):
+	def set_gpa(self, gpa):
 		self.gpa = gpa
