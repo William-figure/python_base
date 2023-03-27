@@ -1,6 +1,6 @@
 import tkinter as tk
 #import mysql.connector (NEED UPDATE)
-cnx = mysql.connector.connect(user = 'localhost', )
+#cnx = mysql.connector.connect(user = 'localhost', ) (NEED UPDATE)
 class Student:
 	def __init__(self, name, id, age, gpa):
 		self.name = name
