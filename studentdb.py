@@ -1,4 +1,4 @@
-import tkinter as tk
+#import tkinter as tk
 #import mysql.connector (NEED UPDATE)
 #cnx = mysql.connector.connect(user = 'localhost', ) (NEED UPDATE)
 class Student:
