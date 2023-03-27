@@ -26,6 +26,6 @@ class Student:
 	def set_gpa(self, gpa):
 		self.gpa = gpa
 if __name__ == '__main__':
-	s1 = Student("William", 25042920, 25, 3)
+	s1 = Student("John", 123457, 23, 10)
 	print("This student name is", s1.get_name())
 	print("This student age is", s1.get_age())
